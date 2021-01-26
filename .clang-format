@@ -1,0 +1,10 @@
+BasedOnStyle: LLVM
+
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: Empty
+AlwaysBreakTemplateDeclarations: true
+BreakConstructorInitializers: BeforeComma
+IndentWidth: 4
+PointerAlignment: Left
+TabWidth: 4
+UseTab: ForIndentation
