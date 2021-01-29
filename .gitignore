@@ -1,0 +1,7 @@
+#
+# .gitignore
+#
+
+# Ignore meson stuff.
+build/
+compile_commands.json
