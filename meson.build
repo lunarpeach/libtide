@@ -15,3 +15,8 @@ libtide_dep = declare_dependency(
     include_directories : 'include',
     version : meson.project_version()
 )
+
+# Don't build the tests if this is being used as a subproject.
+if not meson.is_subproject()
+    subdir('test')
+endif
