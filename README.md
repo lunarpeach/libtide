@@ -5,10 +5,10 @@ Miscellaneous C++ headers that have seen some use in my hobby projects.
 
 ## Usage
 
-Information about what each header does and how to use it *should* live in the
-comments at the top of each file.  Grab one that seems useful, and use it
-directly in your project.  Tweak it, improve it, and, if you want, share what
-you changed.  I'm always ready to learn something new.
+This is a personal project, and I only intend to maintain it as far as free time
+and interest allow.  Having said that, please feel free to use any bits of this
+that seem useful.  Information about what each header does and how to use it *should*
+live in the comments at the top of each file.
 
 
 ## Requirements
